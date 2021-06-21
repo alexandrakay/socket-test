@@ -13,4 +13,5 @@
 - 7. JS -> SR: join a room
 - 8. SR -> JS: send room chat history
 - 9. JS -> UI: update DOM w/ chat history
+
 # socket-test
